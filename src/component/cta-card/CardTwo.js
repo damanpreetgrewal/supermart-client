@@ -17,7 +17,7 @@ const CardTwo = () => {
             </h2>
             <p className="text-sm font-sans leading-6">
               There are many products you will find our shop, Choose your daily
-              necessary product from our KachaBazar shop and get some special
+              necessary product from our Supermart shop and get some special
               offer. See Our latest discounted products from here and get a
               special discount.
             </p>

@@ -16,15 +16,15 @@ const TermAndConditions = () => {
         <div className="max-w-screen-2xl mx-auto lg:py-20 py-10 px-3 sm:px-10">
           <div className="mb-8 lg:mb-12 last:mb-0">
             <h2 className="text-xl xl:text-2xl xl:leading-7 font-semibold font-serif mb-2 lg:mb-4">
-              Welcome to KachaBazar!
+              Welcome to Supermart!
             </h2>
             <div className="font-sans leading-7">
               <p>
                 These terms and conditions outline the rules and regulations for
-                the use of KachaBazar's Website, located at
-                https://kachabazar.com/. By accessing this website we assume you
+                the use of Supermart's Website, located at
+                https://Supermart.com/. By accessing this website we assume you
                 accept these terms and conditions. Do not continue to use
-                KachaBazar if you do not agree to take all of the terms and
+                Supermart if you do not agree to take all of the terms and
                 conditions stated on this page.
               </p>
               <p>
@@ -52,8 +52,8 @@ const TermAndConditions = () => {
             </h2>
             <div className="font-sans leading-7">
               <p>
-                We employ the use of cookies. By accessing KachaBazar, you
-                agreed to use cookies in agreement with the KachaBazar's Privacy
+                We employ the use of cookies. By accessing Supermart, you
+                agreed to use cookies in agreement with the Supermart's Privacy
                 Policy. Most interactive websites use cookies to let us retrieve
                 the user’s details for each visit. Cookies are used by our
                 website to enable the functionality of certain areas to make it
@@ -68,10 +68,10 @@ const TermAndConditions = () => {
             </h2>
             <div className="font-sans leading-7">
               <p>
-                Unless otherwise stated, KachaBazar and/or its licensors own the
-                intellectual property rights for all material on KachaBazar. All
+                Unless otherwise stated, Supermart and/or its licensors own the
+                intellectual property rights for all material on Supermart. All
                 intellectual property rights are reserved. You may access this
-                from KachaBazar for your own personal use subjected to
+                from Supermart for your own personal use subjected to
                 restrictions set in these terms and conditions.This Agreement
                 shall begin on the date hereof. Our Terms and Conditions were
                 created with the help of the Terms And Conditions Generator.
@@ -108,12 +108,12 @@ const TermAndConditions = () => {
               <p>
                 Parts of this website offer an opportunity for users to post and
                 exchange opinions and information in certain areas of the
-                website. KachaBazar does not filter, edit, publish or review
+                website. Supermart does not filter, edit, publish or review
                 Comments prior to their presence on the website. Comments do not
-                reflect the views and opinions of KachaBazar,its agents and/or
+                reflect the views and opinions of Supermart,its agents and/or
                 affiliates. Comments reflect the views and opinions of the
                 person who post their views and opinions. To the extent
-                permitted by applicable laws, KachaBazar shall not be liable for
+                permitted by applicable laws, Supermart shall not be liable for
                 the Comments or for any liability, damages or expenses caused
                 and/or suffered as a result of any use of and/or posting of
                 and/or appearance of the Comments on this website.

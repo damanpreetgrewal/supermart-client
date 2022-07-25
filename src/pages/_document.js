@@ -12,7 +12,7 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.png" />
           <meta
             property="og:title"
-            content="KachaBazar - React Grocery & Organic Food Store e-commerce Template"
+            content="Supermart - React Grocery & Organic Food Store e-commerce Template"
           />
           <meta property="og:type" content="eCommerce Website" />
           <meta
@@ -21,7 +21,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:url"
-            content="https://kachabazar-store.vercel.app/"
+            content="https://supermart-client.vercel.app/"
           />
           <meta
             property="og:image"

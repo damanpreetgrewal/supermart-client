@@ -15,7 +15,7 @@ const AboutUs = () => {
           <div className="grid grid-flow-row lg:grid-cols-2 gap-4 lg:gap-16 items-center">
             <div className="">
               <h3 className="text-xl lg:text-3xl mb-2 font-serif font-semibold">
-                Welcome to our KachaBazar
+                Welcome to Supermart
               </h3>
               <div className="mt-3 text-base opacity-90 leading-7">
                 <p>

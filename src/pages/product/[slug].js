@@ -176,7 +176,7 @@ const ProductScreen = ({ product, relatedProduct }) => {
                           <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500  mr-2 transition ease-in-out duration-500">
                             <FacebookShareButton
                               url={`https://supermarket-plum.vercel.app/product/${router.query.slug}`}
-                              quote="KachaBazar"
+                              quote="Supermart"
                             >
                               <FacebookIcon size={32} round />
                             </FacebookShareButton>
@@ -184,7 +184,7 @@ const ProductScreen = ({ product, relatedProduct }) => {
                           <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500  mr-2 transition ease-in-out duration-500">
                             <TwitterShareButton
                               url={`https://supermarket-plum.vercel.app/product/${router.query.slug}`}
-                              quote="KachaBazar"
+                              quote="Supermart"
                             >
                               <TwitterIcon size={32} round />
                             </TwitterShareButton>
@@ -192,7 +192,7 @@ const ProductScreen = ({ product, relatedProduct }) => {
                           <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500  mr-2 transition ease-in-out duration-500">
                             <RedditShareButton
                               url={`https://supermarket-plum.vercel.app/product/${router.query.slug}`}
-                              quote="KachaBazar"
+                              quote="Supermart"
                             >
                               <RedditIcon size={32} round />
                             </RedditShareButton>
@@ -200,7 +200,7 @@ const ProductScreen = ({ product, relatedProduct }) => {
                           <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500  mr-2 transition ease-in-out duration-500">
                             <WhatsappShareButton
                               url={`https://supermarket-plum.vercel.app/product/${router.query.slug}`}
-                              quote="KachaBazar"
+                              quote="Supermart"
                             >
                               <WhatsappIcon size={32} round />
                             </WhatsappShareButton>
@@ -208,7 +208,7 @@ const ProductScreen = ({ product, relatedProduct }) => {
                           <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500  mr-2 transition ease-in-out duration-500">
                             <LinkedinShareButton
                               url={`https://supermarket-plum.vercel.app/product/${router.query.slug}`}
-                              quote="KachaBazar"
+                              quote="Supermart"
                             >
                               <LinkedinIcon size={32} round />
                             </LinkedinShareButton>
