@@ -143,13 +143,13 @@ const Footer = () => {
             </Link>
             <p className="leading-7 font-sans text-sm text-gray-600 mt-3">
               <span>
-                987 Andre Plain Suite High Street 838, <br /> Lake Hestertown,
-                USA
+                Activa Avenue, <br /> Kitchener,
+                ON CA N2E3R3
               </span>
               <br />
-              <span>Tell: 02.356.1666</span>
+              <span>Tel: 548-333-3036</span>
               <br />
-              <span>Email: ccruidk@test.com</span>
+              <span>Email: damanpreetsinghgrewal92@gmail.com</span>
             </p>
           </div>
         </div>
@@ -229,7 +229,7 @@ const Footer = () => {
               <p className="text-base leading-7 font-medium block">
                 Call Us Today!
               </p>
-              <h5 className="text-2xl font-bold text-emerald-500 leading-7">+012345-67900</h5>
+              <h5 className="text-2xl font-bold text-emerald-500 leading-7">+15483333036</h5>
             </div>
             <div className="col-span-1 hidden lg:block md:block">
               <ul className="lg:text-right">
@@ -251,13 +251,13 @@ const Footer = () => {
       <div className="mx-auto max-w-screen-2xl px-3 sm:px-10 flex justify-center py-4">
         <p className="text-sm text-gray-500 leading-6">
           Copyright 2022 @{' '}
-          <Link href="https://themeforest.net/user/htmllover">
+          <Link href="https://www.linkedin.com/in/damanpreetgrewal/">
             <a
               target="_blank"
               rel="noopener noreferrer"
               className="text-emerald-500"
             >
-              HtmlLover
+              Damanpreet Grewal
             </a>
           </Link>
           , All rights reserved.
