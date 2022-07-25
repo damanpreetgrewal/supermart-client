@@ -15,14 +15,7 @@ const Invoice = ({ data, printRef }) => {
           <div className="lg:text-right text-left">
             <h2 className="text-lg font-serif font-semibold mt-4 lg:mt-0 md:mt-0">
               <Link href="/">
-                <a className="">
-                  <Image
-                    width={110}
-                    height={40}
-                    src="/logo/logo-color.svg"
-                    alt="logo"
-                  />
-                </a>
+                Supermart
               </Link>
             </h2>
             <p className="text-sm text-gray-500">
