@@ -138,7 +138,7 @@ const AboutUs = () => {
                   <h5 className='text-lg font-semibold font-serif'>
                     Damanpreet Grewal
                   </h5>
-                  <span className='opacity-75 text-sm'>Co-Founder & CEO</span>
+                  <span className='opacity-75 text-sm'>Founder & CEO</span>
                 </div>
               </div>
               <div className='max-w-sm'>
@@ -153,7 +153,7 @@ const AboutUs = () => {
                   <h5 className='text-lg font-semibold font-serif'>
                     Orla Schmidt
                   </h5>
-                  <span className='opacity-75 text-sm'>Chief Executive</span>
+                  <span className='opacity-75 text-sm'>UI/UX Designer</span>
                 </div>
               </div>
             </div>
