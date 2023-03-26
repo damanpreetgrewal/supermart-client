@@ -27,7 +27,7 @@ instance.interceptors.request.use(function (config) {
 });
 
 // console.log(process.env.API_BASE_URL);
-const responseBody = (response) => response.data;
+const responseBody = response => response.data;
 
 const requests = {
   get: (url, body) => instance.get(url, body).then(responseBody),
