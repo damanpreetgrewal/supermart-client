@@ -180,15 +180,15 @@ const contactData = [
   {
     id: 2,
     title: 'Call Us',
-    info: 'Distinctively disseminate focused solutions clicks-and-mortar ministate.',
+    info: 'Call the developer for freelance work!',
     icon: FiPhoneCall,
-    contact: '029-00124667',
+    contact: '548-333-3036',
     className: 'bg-yellow-100',
   },
   {
     id: 3,
     title: 'Location',
-    info: 'Cecilia Chapman, 561-4535 Nulla LA, United States 96522',
+    info: 'Activa Ave, Kitchener, ON CA N2E 3R3',
     icon: FiMapPin,
     contact: '',
     className: 'bg-indigo-100',
