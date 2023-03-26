@@ -135,6 +135,7 @@ export const getStaticProps = async () => {
   };
 };
 
+//Turn Server side props on
 // export const getServerSideProps = async () => {
 //   const products = await ProductServices.getShowingProducts();
 
