@@ -86,7 +86,7 @@ const ContactUs = () => {
                         label="Your Name"
                         name="name"
                         type="text"
-                        placeholder="Inter Your Name"
+                        placeholder="Enter Your Name"
                       />
                       <Error errorName={errors.name} />
                     </div>
@@ -96,7 +96,7 @@ const ContactUs = () => {
                         label="Your Email"
                         name="email"
                         type="email"
-                        placeholder="Inter Your Email"
+                        placeholder="Enter Your Email"
                       />
                       <Error errorName={errors.email} />
                     </div>
@@ -107,7 +107,7 @@ const ContactUs = () => {
                       label="Subject"
                       name="subject"
                       type="text"
-                      placeholder="Inter Your Subject"
+                      placeholder="Enter Your Subject"
                     />
                     <Error errorName={errors.subject} />
                   </div>
