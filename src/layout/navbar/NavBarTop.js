@@ -36,7 +36,7 @@ const NavBarTop = () => {
               <FiPhoneCall className="mr-2" />
               We are available 24/7, Need help? Call Us:{' '}
               <a
-                href="tel:+012345609"
+                href="tel:+15483333036"
                 className="font-bold text-emerald-500 ml-1"
               >
                 +5483333036
