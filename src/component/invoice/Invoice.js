@@ -19,7 +19,7 @@ const Invoice = ({ data, printRef }) => {
               </Link>
             </h2>
             <p className="text-sm text-gray-500">
-              Cecilia Chapman, 561-4535 Nulla LA, <br /> United States 96522{' '}
+              69 Activa Ave, Kitchener, ON <br /> Canada N2E 3R3{' '}
             </p>
           </div>
         </div>

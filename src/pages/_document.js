@@ -12,7 +12,7 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.png" />
           <meta
             property="og:title"
-            content="Supermart - React Grocery & Organic Food Store e-commerce Template"
+            content="Supermart - Grocery & Organic Food Store e-commerce"
           />
           <meta property="og:type" content="eCommerce Website" />
           <meta

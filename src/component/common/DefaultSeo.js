@@ -4,7 +4,7 @@ import { DefaultSeo as NextSeo } from 'next-seo';
 const DefaultSeo = () => {
   return (
     <NextSeo
-      title="Supermart - React Grocery & Organic Food Store e-commerce Template"
+      title="Supermart - Grocery & Organic Food Store e-commerce"
       openGraph={{
         type: 'website',
         locale: 'en_IE',
