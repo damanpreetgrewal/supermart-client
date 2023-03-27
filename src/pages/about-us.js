@@ -119,9 +119,25 @@ const AboutUs = () => {
                   Our Founder
                 </h3>
                 <p className='mt-2 md:mt-3 font-normal block text-base'>
-                  We’re impartial and independent, and every day we create
-                  distinctive, world-class reintermediate backend supply
-                  programmes.
+                  Our founder is an accomplished Full Stack Developer with over
+                  7 years of experience in the IT industry. Throughout their
+                  career, they have gained extensive expertise in software
+                  analysis, design, development, implementation, and testing of
+                  object-oriented applications and web-based enterprise
+                  applications in the banking and finance/insurance domain.
+                  Their mastery of ReactJS and NodeJS has allowed them to build
+                  highly functional and scalable applications that meet the
+                  needs of clients and end-users alike. With a keen eye for
+                  detail and a passion for delivering top-quality results, our
+                  founder has earned a reputation as a skilled and reliable
+                  developer. Beyond their technical skills, our founder is also
+                  a natural problem solver, able to quickly identify and
+                  troubleshoot issues as they arise. Their ability to work well
+                  under pressure and collaborate effectively with team members
+                  has made them a valuable asset on numerous projects. Overall,
+                  our founder's experience, expertise, and dedication make them
+                  an exceptional leader and a driving force behind the success
+                  of our organization.
                 </p>
               </div>
             </div>
@@ -139,21 +155,6 @@ const AboutUs = () => {
                     Damanpreet Grewal
                   </h5>
                   <span className='opacity-75 text-sm'>Founder & CEO</span>
-                </div>
-              </div>
-              <div className='max-w-sm'>
-                <Image
-                  width={420}
-                  height={420}
-                  src='/team/team-2.jpg'
-                  alt='logo'
-                  className='block rounded-lg'
-                />
-                <div className='py-4'>
-                  <h5 className='text-lg font-semibold font-serif'>
-                    Orla Schmidt
-                  </h5>
-                  <span className='opacity-75 text-sm'>UI/UX Designer</span>
                 </div>
               </div>
             </div>
