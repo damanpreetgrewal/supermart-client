@@ -23,10 +23,6 @@ class MyDocument extends Document {
             property="og:url"
             content="https://supermart-client.vercel.app/"
           />
-          <meta
-            property="og:image"
-            content="https://res.cloudinary.com/ahossain/image/upload/v1636729752/facebook-page_j7alju.png"
-          />
         </Head>
         <body>
           <Main />
