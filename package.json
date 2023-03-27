@@ -13,7 +13,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
-    "@next/eslint-plugin-next": "^12.0.0",
+    "@next/eslint-plugin-next": "^12.0.0",  
     "@react-oauth/google": "^0.2.6",
     "@react-pdf/renderer": "^3.1.9",
     "@rooks/use-sessionstorage": "^4.11.2",
