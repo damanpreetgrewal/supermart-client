@@ -17,7 +17,7 @@ class MyDocument extends Document {
           <meta property="og:type" content="eCommerce Website" />
           <meta
             property="og:description"
-            content="React Grocery & Organic Food Store e-commerce Template"
+            content="Grocery & Organic Food Store e-commerce"
           />
           <meta
             property="og:url"

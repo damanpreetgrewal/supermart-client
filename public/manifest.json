@@ -7,8 +7,8 @@
   "start_url": "/",
   "id": "/",
   "short_name": "Supermart",
-  "name": "Supermart - React Grocery & Organic Food Store e-commerce Template",
-  "description": "React Grocery & Organic Food Store e-commerce Template",
+  "name": "Supermart - Grocery & Organic Food Store e-commerce",
+  "description": "Grocery & Organic Food Store e-commerce",
   "icons": [
     {
       "src": "/icon-192x192.png",

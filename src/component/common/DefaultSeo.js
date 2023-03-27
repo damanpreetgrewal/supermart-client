@@ -10,7 +10,7 @@ const DefaultSeo = () => {
         locale: 'en_IE',
         url: 'https://supermart-client.vercel.app/',
         site_name:
-          'Supermart - React Grocery & Organic Food Store e-commerce Template',
+          'Supermart - Grocery & Organic Food Store e-commerce',
       }}
       twitter={{
         handle: '@handle',
